@@ -1,5 +1,5 @@
 function List() {
-    let items = ["Cartagena", "Murcia", "Madrid", "Barcelona", "Valencia"]
+    let items = ["Gaia", "Primordium", "Kuronami", "Prime", "Prelude to Chaos"];
 
   return (
     <div>
@@ -10,4 +10,4 @@ function List() {
     </div>
   );
 }
-export default List;
+export default List
