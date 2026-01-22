@@ -4,8 +4,9 @@ function List() {
     "Prelude to Chaos",
     "Prime",
     "RGX",
+    "Kuronami",
     "Forsaken",
-    "Xerofang"
+    "Xerofang",
   ];
 
   return (
